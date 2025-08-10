@@ -1,0 +1,14 @@
+{
+  "name": "NICE-DEV_ASSISTANT",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with Baileys, modular commands, and pairing code (Render)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest",
+    "fs-extra": "latest"
+  }
+}
