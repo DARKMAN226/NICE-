@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "latest",
+    "@whiskeysockets/baileys": "github:kiuur/bails"
     "pino": "latest",
     "fs-extra": "latest"
   }
